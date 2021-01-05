@@ -98,7 +98,7 @@
     "@streamr/streamr-icons": "^0.1.9",
     "abi-decoder": "^1.2.0",
     "assert-diff": "^1.2.5",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.2",
     "babel-jest": "^24.8.0",
